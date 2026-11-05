@@ -5,3 +5,6 @@ if soz == teskari:
     print("Polindrom")
 else:
     print("Poljndromd emas")
+    
+    
+print("Salom Dunyo")
