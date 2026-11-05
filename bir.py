@@ -6,5 +6,3 @@ if soz == teskari:
 else:
     print("Poljndromd emas")
     
-    
-print("Salom Dunyo")
