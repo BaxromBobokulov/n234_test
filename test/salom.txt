@@ -1,0 +1,3 @@
+Salom, dunyo!
+Python dasturlash tili.
+Men Python o'rganyapman.
